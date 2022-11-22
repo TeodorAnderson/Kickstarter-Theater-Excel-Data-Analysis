@@ -34,9 +34,9 @@ In the line graph shown above, we can come to the conclusions that successful ca
  
 ## Results
 ### Conclusions about Outcomes based on Launch Date
- 
+ Successful campaigns are on average 29 to 32 days, and for the highest statistical outcome Louise should start her in May.
 ### Conclusions about Outcomes Based on Goals
-
+The most succesful campaigns have the lowest goals, less than $15,000, and if not she should reach high for $35,000, as shown in the data.
 
 ### Limitations of the the Data Set
 Some limitations the data set has are its lack of information about how each succesful campaign performed as a return on interest.
@@ -44,15 +44,12 @@ Some limitations the data set has are its lack of information about how each suc
 More graphs we could create are two histograms below showing the lengths of time successful and failed campaigns take, giving Louise useful parameters in how long her campaigns should take
  ![Sucessful Camp Histogram](https://user-images.githubusercontent.com/116928193/203169402-8401e2e3-0506-4c51-b9e9-52943efdf68c.png)
  
- ![Failed Campaigns Histogram](https://user-images.githubusercontent.com/116928193/203169408-39e4f7b4-55e9-425c-9f2a-23d2f16e2d9a.png)
+![Failed Histogram](https://user-images.githubusercontent.com/116928193/203182906-3d7afd23-b30c-4b08-bbfd-b655452ed5db.png)
+
  
  
  
- 
- 
- Average backers
-Higher goals better outcome?
- 
+
  
  
  
