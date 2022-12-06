@@ -41,7 +41,7 @@ The most succesful campaigns have the lowest goals, less than $15,000, and if no
 ### Limitations of the the Data Set
 Some limitations the data set has are its lack of information about how each succesful campaign performed as a return on interest.
 ### Other possible graphs
-More graphs we could create are two histograms below showing the lengths of time successful and failed campaigns take, giving Louise useful parameters in how long her campaigns should take
+More graphs we could create are two histograms below showing the lengths of time successful and failed campaigns take, giving Louise useful parameters in how long her campaigns should take.
  ![Sucessful Camp Histogram](https://user-images.githubusercontent.com/116928193/203169402-8401e2e3-0506-4c51-b9e9-52943efdf68c.png)
  
 ![Failed Histogram](https://user-images.githubusercontent.com/116928193/203182906-3d7afd23-b30c-4b08-bbfd-b655452ed5db.png)
