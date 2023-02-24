@@ -1,10 +1,7 @@
-# Mod1KickstarterTanderson
+# Kickstarting Theaters Analysis with Excell data and functions
  
-# Kickstarting with Excel
  
 ## Overview of Project
- 
-### Background
  	
   	Louise, an aspiring playwright, wrote a play called *Fever* and predicts that it will cost about $10,000 to produce. Unfamiliar with the market and data on crowdfunded campaigns she asks an excel data analyst, myself, for assistance.
  
